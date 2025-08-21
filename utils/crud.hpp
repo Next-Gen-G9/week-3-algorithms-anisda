@@ -16,6 +16,7 @@ using namespace std;
 void addProduct(vector<Product>& products, int& nextId) {
     // INSTRUCTION:
     // 1. Create a new 'Product' object.
+    cout << "HEllo";
     // 2. Assign it a unique ID from 'nextId', then increase 'nextId' by 1.
     // 3. Ask for the product's name. Use `cin.getline(newProduct.name, 50)` to read it.
     // 4. Ask for quantity and price.
